@@ -56,7 +56,7 @@ valor_final = valor_com_juros * 1.02
 
 ---
 
-## ▶️ Como Executar (simples e objetivo)
+## ▶️ Como Executar
 
 ### Opção A — IntelliJ IDEA (console)
 1) Abra o projeto no **IntelliJ IDEA**  
