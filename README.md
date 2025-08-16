@@ -86,15 +86,6 @@ java -cp out application.Program
 > Se sua classe principal tiver outro nome/pacote, ajuste o comando de **execução** conforme necessário.
 
 ---
-## 🖼️ Diagramas e Exemplos (embutidos) 
-### 1) Exemplo de execução no console (entrada/saída) 
-<img alt="Exemplo de execução no console (entrada/saída)" src="C:\Users\lucas\OneDrive\Documentos\Curso Java - Nelio\exeIntefaces1 - Finalizado\exeIntefaces1 - Finalizado\contract-installment\imagens\input-output.png" /> 
-### 2) Diagrama de domínio (Entities) 
-<img alt="Diagrama de domínio (Entities)" src="C:\Users\lucas\OneDrive\Documentos\Curso Java - Nelio\exeIntefaces1 - Finalizado\exeIntefaces1 - Finalizado\contract-installment\imagens\diagrama-principal.png" /> 
-### 3) Diagrama de serviços (Service Layer) 
-<img alt="Diagrama de serviços (Service Layer)" src="C:\Users\lucas\OneDrive\Documentos\Curso Java - Nelio\exeIntefaces1 - Finalizado\exeIntefaces1 - Finalizado\contract-installment\imagens\services.png" /> 
-
----
 
 ## ✍️ Desenvolvido Por:
 **Lucas França**
